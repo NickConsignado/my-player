@@ -43,6 +43,12 @@ let track_list = [
     image: "./photo/vinyl.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "./music/lostboy.mp3"
   },
+  {
+    name: "WDDWM",
+    artist: "187 MOBSTAZ",
+    image: "./photo/vinyl.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "./music/wddwm.mp3"
+  },
 ];
 
 function loadTrack(track_index) {
