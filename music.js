@@ -29,7 +29,7 @@ let track_list = [
     name: "WDDWM",
     artist: "Sir Matt",
     image: "./photo/vinyl.gif?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "./music/CarOutside.mp3"
+    path: "./music/wddwm.mp3"
   },
   {
     name: "Will You Ever Learn",
